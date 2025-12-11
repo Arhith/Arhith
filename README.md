@@ -84,5 +84,7 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 - 💼 [LinkedIn]([https://www.linkedin.com/in/arhith-suresh/])
 - 🧠 Open to **data / analytics / AI / product** collabs
 - 💬 Feel free to reach out for **projects, ideas, or just to chat**
-- 
+-
+
+---
 <h3 align="center">My repos ⬇️</h3>
