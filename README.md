@@ -1,4 +1,4 @@
-![Best Animations](https://github.com/user-attachments/assets/4ecfad5f-c0a3-4cff-997f-403f89e36cb4)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Hi+There!👋+Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Hi+There!👋+Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
 
 
 # Hi there, I'm Arhith 👋  
