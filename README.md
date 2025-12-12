@@ -91,10 +91,10 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
   <a href="mailto:arhithpattathil@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  <br/>
   
-- 🧠 Open to **data / analytics / AI / product** collabs
-- 💬 Feel free to reach out for **projects, ideas, or just to chat**
+- 🧠 Open to **Data / Analytics / AI / Product** collabs
+- 💬 Feel free to reach out for **Projects, Ideas, or Just to chat**
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
