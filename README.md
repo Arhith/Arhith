@@ -15,18 +15,23 @@ Currently exploring LLM-driven systems, RAG, MCP and advanced analytics to suppo
   
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp; ***Tools /Tech/ Skills***
 
-### Languages
-- Python, SQL, JavaScript , Java, C/C++
+### Languages - Vibe Coding!xd 
+- Python
+- SQL
+- JavaScript
+- Java
+- C/C++
 
 ### Data & Analytics
-- Power BI, Excel  
+- Power BI, Excel
+- Tableau 
 - ETL / Data Pipelines  
 - Data Migration & Data Quality
 
 ### Databases & Cloud
 - PostgreSQL, MySQL  
 - AWS (S3, EC2, RDS, etc.)  
-- Basic Snowflake / Redshift (if applicable)
+- Basic Snowflake / Redshift
 
 ### Backend / APIs / Dev
 - REST APIs (Python / Node)  
