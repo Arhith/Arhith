@@ -93,10 +93,8 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
   </a>
   <br/>
 
-<ul>
-  <li>🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</li>
-  <li>💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></li>
-</ul>
+🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</li>
+💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></li>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
