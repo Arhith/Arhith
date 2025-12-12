@@ -40,7 +40,7 @@ Currently exploring LLM-driven systems, RAG, MCP and advanced analytics to suppo
 - Automation, “lazy” tools that save time 😄
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h3style="margin-top: 8;">
+<h3>
   Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </h3> 
 <a href="https://www.linkedin.com/in/arhith-suresh/" target="blank" >
