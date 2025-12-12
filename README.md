@@ -49,19 +49,6 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArhithE&show_icons=true&theme=transparent)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arhith&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhith&layout=compact&theme=transparent)
-
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/arhith-suresh/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
