@@ -19,7 +19,7 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 - 🚀 Long term: build & scale products (Smart Intern, EmoSpend, LazyPortfolio, etc.)  
 - 📫 Reach me: _add your email or LinkedIn link here_
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
 ## 🛠️ Tech & Tools
 
@@ -47,7 +47,7 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 - Product thinking & business strategy  
 - Automation, “lazy” tools that save time 😄
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 📂 Featured Projects
 
@@ -89,5 +89,6 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 - 💬 Feel free to reach out for **projects, ideas, or just to chat**
 -
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h3 align="center">My repos ⬇️</h3>
