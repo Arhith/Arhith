@@ -1,11 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif"
-     alt="👋 Hi there! I'm Arhith Suresh"
-     title="👋 Hi there! I'm Arhith Suresh"/>](https://github.com/Arhith)
-
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Arhi(111|th Suresh)|https://rArhith.Suresh)" title="👋 Hi there! I'm (Arhit(111|th Suresh)|https://Arhith.Suresh)"/>](https://Arhith.Suresh/)
-
-
 ![Best Animations](https://github.com/user-attachments/assets/4ecfad5f-c0a3-4cff-997f-403f89e36cb4)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
 
 
