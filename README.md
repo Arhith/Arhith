@@ -89,6 +89,7 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
   <a href="mailto:arhithpattathil@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 - 🧠 Open to **data / analytics / AI / product** collabs
 - 💬 Feel free to reach out for **projects, ideas, or just to chat**
 -
