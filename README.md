@@ -80,7 +80,9 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhith&layout=compact&theme=transparent)
 
----
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/arhith-suresh/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -89,10 +91,11 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
   <a href="mailto:arhithpattathil@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   
 - 🧠 Open to **data / analytics / AI / product** collabs
 - 💬 Feel free to reach out for **projects, ideas, or just to chat**
--
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
