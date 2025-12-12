@@ -1,3 +1,8 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif"
+     alt="👋 Hi there! I'm Arhith Suresh"
+     title="👋 Hi there! I'm Arhith Suresh"/>](https://github.com/Arhith)
+
+
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Arhi(111|th Suresh)|https://rArhith.Suresh)" title="👋 Hi there! I'm (Arhit(111|th Suresh)|https://Arhith.Suresh)"/>](https://Arhith.Suresh/)
 
 
