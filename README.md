@@ -49,27 +49,6 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 📂 Featured Projects
-
-### 🔹 GLUCOVISION – AI-Powered Glucose Response Prediction
-- Multimodal system that predicts **post-meal blood glucose curve** from meal images + context  
-- Uses **vision-language models** for nutrient extraction and **ML/physiological modeling** for glucose curves  
-- Pipeline includes **data ingestion, feature engineering, modeling, evaluation, and deployment**
-
-### 🔹 Multimodal ECG Heartbeat Classification
-- Classifies heartbeats into **Normal vs Myocardial Infarction**  
-- Converts ECG signals into **GAF & MTF images** and applies deep learning  
-- Focus on **signal processing + CNN-based classification**
-
-### 🔹 Customer Behavior Analysis
-- End-to-end data analysis project (R / Python / SQL / BI)  
-- Covers **data cleaning, feature engineering, segmentation, and visualization**  
-- Built to understand **purchasing patterns and customer value**
-
-> Tip: link each project title to the actual repo once it’s on your profile.
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Replace YOUR_USERNAME with your actual GitHub username -->
@@ -92,11 +71,6 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
-
-
-
-  <p>🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</p>
-  <p>💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
