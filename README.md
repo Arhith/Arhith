@@ -4,7 +4,12 @@
   
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-Graduate Master’s student in Computer Science with a strong Business Analyst and entrepreneurial mindset, focused on translating complex data and technology into clear, actionable insights. I blend software engineering, data analytics, and business strategy to design ETL pipelines, build analytics dashboards, and develop AI-powered solutions that address real-world problems and deliver measurable value. With hands-on experience in large-scale data projects, cloud platforms, and CI/CD workflows, I enjoy working at the intersection of stakeholders, data, and technology—asking the right questions before building the right solutions. Currently exploring LLM-driven systems, retrieval-augmented generation, and advanced analytics to support smarter decision-making.
+> **I want to help businesses make sense of data before data makes sense of them.**💪
+
+Graduate Master’s student in Computer Science with a strong Business Analyst and entrepreneurial mindset, focused on translating complex data and technology into clear, actionable insights. I blend software engineering, data analytics, and business strategy to design ETL pipelines, build analytics dashboards, and develop AI-powered solutions that address real-world problems and deliver measurable value. With experience in large-scale data projects, cloud platforms, and CI/CD workflows, I enjoy working at the intersection of stakeholders, data, and technology—asking the right questions before building the right solutions. 
+
+
+Currently exploring LLM-driven systems, RAG, MCP and advanced analytics to support smarter decision-making.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
