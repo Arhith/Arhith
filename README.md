@@ -1,4 +1,4 @@
-![Best Animations](https://github.com/user-attachments/assets/4ecfad5f-c0a3-4cff-997f-403f89e36cb4)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
+![Best Animations](https://github.com/user-attachments/assets/4ecfad5f-c0a3-4cff-997f-403f89e36cb4)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Hi+There!+👋+Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
 
 
 # Hi there, I'm Arhith 👋  
@@ -20,11 +20,6 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 - 📫 Reach me: _add your email or LinkedIn link here_
 
 ---
-
-</div>
-<img align="right" height="270px" alt="GIF" src="https://pin.it/2GvFGMN23" />
-
-<div>
   
 ## 🛠️ Tech & Tools
 
