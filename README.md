@@ -9,11 +9,6 @@ I’m a graduate student with a strong mix of **software engineering, data engin
 I love building **data pipelines, analytics dashboards, and AI-powered tools** that actually get used – not just live in a Git repo. 😄
 
 ---
-</div>
-<img align="right" height="270px" alt="GIF" src="https://pin.it/2GvFGMN23" />
-
-<div>
----
   
 ## 🔍 About Me
 
@@ -26,6 +21,11 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
 
 ---
 
+</div>
+<img align="right" height="270px" alt="GIF" src="https://pin.it/2GvFGMN23" />
+
+<div>
+  
 ## 🛠️ Tech & Tools
 
 ### Languages
