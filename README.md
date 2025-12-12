@@ -92,10 +92,11 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
----  
-- 🧠 Open to **Data / Analytics / AI / Product** collabs
-- 💬 Feel free to reach out for **Projects, Ideas, or Just to chat**
 
+<ul>
+  <li>🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</li>
+  <li>💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></li>
+</ul>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
