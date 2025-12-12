@@ -93,6 +93,9 @@ I love building **data pipelines, analytics dashboards, and AI-powered tools** t
   </a>
   <br/>
 
+  <p>🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</p>
+  <p>💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></p>
+
 🧠 Open to <b>Data / Analytics / AI / Product</b> collabs</li>
 💬 Feel free to reach out for <b>Projects, Ideas, or just to chat</b></li>
 
