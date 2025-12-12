@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Hi+There!👋+Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=900&lines=Hi+There!👋+Welcome+To+ARHITH'S+GitHub+Profile)](https://git.io/typing-svg)
 
 
 # Hi there, I'm Arhith 👋  
